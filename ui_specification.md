@@ -11,4 +11,3 @@
   5. Finally, when "Save User" button is clicked, the user will be added to the list by incrementing previous id by 1. This list includes limeted information about users: Corresponding Username, Email and Enabled.
   6. Depending on the preferency of hiding disabled user option, newly added user will be displayed or not displayed.
   7. After all, the terminal will be returned. So you can clean the new user form and deactivate save user button in this step.
-  
